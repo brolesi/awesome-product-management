@@ -327,6 +327,8 @@ Core principles and mental models that shape effective product thinking and deci
 - [Finding and Fostering Great Product Sense](https://staysaasy.com/product/2023/05/14/product-sense.html) - By [Stay SaaSy](https://staysaasy.com/about.html).
 - [Want To Build An Incredible Product? Strive For The Delta Of "Wow"](https://medium.com/@waynechang/want-to-build-an-incredible-product-strive-for-the-delta-of-wow-f184b716af18) - By [Wayne Chang](https://chang.com/).
 - [Quality is not a tradeoff](https://medium.com/the-year-of-the-looking-glass/quality-is-not-a-tradeoff-bcddf7c85553) - By [Julie Zhuo](https://www.juliezhuo.com/).
+- [The Black Box of Product Management](https://blackboxofpm.com/the-black-box-of-product-management-3feb65db6ddb) - By [Brandon Chu](https://medium.com/@brandonmchu).
+- [Product Management Mental Models for Everyone](https://blackboxofpm.com/product-management-mental-models-for-everyone-31e7828cb50b) - By [Brandon Chu](https://medium.com/@brandonmchu).
 - [Great Product Managers are "Outcome Thinkers"](https://medium.com/@max.bennett/great-product-managers-are-outcome-thinkers-66fa5d69cfac) - By [Max Bennett](https://medium.com/@max.bennett).
 - [Do you really understand the concept of product value?](https://www.productboard.com/blog/do-you-really-understand-the-concept-of-product-value/) - by [Hubert Palan](https://www.linkedin.com/in/hubertpalan/).
 - [My product is my garden](https://herman.bearblog.dev/my-product-is-my-garden/) - By [Herman Martinus](https://herman.bearblog.dev/).
@@ -344,6 +346,7 @@ Methodologies, processes, and best practices for building and shipping products 
 
 - [How to Deliver More Software Projects on Time](https://web.archive.org/web/20151029064330/https://www.inc.com/mark-suster/how-to-deliver-more-software-projects-on-time.html) - By [Mark Suster](https://www.linkedin.com/in/marksuster/).
 - [Shipping is a Feature: Some Guiding Principles for People That Build Things](https://a16z.com/2014/04/16/shipping-is-a-feature-some-guiding-principals-for-people-that-build-things/) - By [Michael Copeland](https://www.linkedin.com/in/mcopeland/).
+- [The Time Value of Shipping](https://blackboxofpm.com/the-time-value-of-shipping-6deaf8d7d565) - By [Brandon Chu](https://medium.com/@brandonmchu).
 - [A Minimum Viable Product Is Not a Product, It's a Process](https://web.archive.org/web/20201004000942/https://www.ycombinator.com/library/4Q-a-minimum-viable-product-is-not-a-product-it-s-a-process) - By [Jim Brikman](https://www.ybrikman.com/).
 - [Painless Functional Specifications – Part 1: Why Bother?](https://www.joelonsoftware.com/2000/10/02/painless-functional-specifications-part-1-why-bother/) - By [Joel Spolsky](https://www.joelonsoftware.com).
 - [Painless Functional Specifications – Part 2: What's a Spec?](https://www.joelonsoftware.com/2000/10/03/painless-functional-specifications-part-2-whats-a-spec/) - By [Joel Spolsky](https://www.joelonsoftware.com).
@@ -364,6 +367,8 @@ Strategic thinking, roadmapping, prioritization, and long-term product planning 
 - [Understanding How The Innovator's Dilemma Affects You](https://bothsidesofthetable.com/understanding-how-the-innovator-s-dilemma-affects-you-75563219a58d) - By [Mark Suster](https://www.linkedin.com/in/marksuster/).
 - [OKRs and Product Roadmaps](https://www.romanpichler.com/blog/okrs-and-product-roadmaps/) - By [Roman Pichler](https://www.romanpichler.com/).
 - [Product OKRs: Driving Outcomes Over Outputs](https://productschool.com/blog/product-strategy/product-okrs) - By [Carlos Gonzalez de Villaumbrosia](https://www.linkedin.com/in/villaumbrosia/).
+- [Deadlines](https://blackboxofpm.com/deadlines-d6925e5c694f) - By [Brandon Chu](https://medium.com/@brandonmchu).
+- [Ruthless Prioritization](https://blackboxofpm.com/ruthless-prioritization-e4256e3520a9) - By [Brandon Chu](https://medium.com/@brandonmchu).
 - [How to focus on what's important, not just what's urgent](https://hbr.org/2018/07/how-to-focus-on-whats-important-not-just-whats-urgent) - By [Alice Boyes](https://www.aliceboyes.com/).
 - [Mud Rooms, Red Letters, and Real Priorities](https://web.archive.org/web/20090710004515/https://www.43folders.com/2009/04/28/priorities) - By [Merlin Mann](https://web.archive.org/web/20090707094417/http://www.43folders.com/).
 - [Good strategy understands affect, not just cognition](https://vaughntan.org/strataffect) - By [Vaughn Tan](https://www.linkedin.com/in/vaughntan/).
